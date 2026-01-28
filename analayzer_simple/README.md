@@ -148,5 +148,4 @@ Ekibinizle birlikte şu hedefleri koyun:
 ---
 
 **Başarılar! 🚀**
-
-*Yazarlar: Muhammed Emin Karkın - 9. Sınıf*
+[Muhammed Emin Karkın](https://github.com/HwyNe)
