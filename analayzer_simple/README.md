@@ -20,45 +20,6 @@ Bu araç **eğitim amaçlı** olarak tasarlanmıştır. Kullanmadan önce şunla
 
 ---
 
-## 🧪 TEST İçin YASAL SİTELER
-
-Aşağıdaki siteler scraping'e izin veriyor (robots.txt kontrolü yapın):
-
-### 1. **Wikipedia** ✅
-```bash
-python sitemap_analyzer.py
-# Domain: wikipedia.org
-```
-Tüm sayfaları açıkça listelemiştir.
-
-### 2. **Quotes to Scrape** ✅
-```bash
-python sitemap_analyzer.py
-# Domain: quotes.toscrape.com
-```
-Scraping pratiği için özel olarak yapılmış site.
-
-### 3. **Books to Scrape** ✅
-```bash
-python sitemap_analyzer.py
-# Domain: books.toscrape.com
-```
-Kitap sitesi scraping örneği.
-
-### 4. **Example.com** ✅
-```bash
-python sitemap_analyzer.py
-# Domain: example.com
-```
-Test amaçlı resmi site.
-
-### 5. **Python.org** ✅
-```bash
-python sitemap_analyzer.py
-# Domain: python.org
-```
-Python resmi sitesi, scraping'e izin veriyor.
-
 ---
 
 ## 📦 KURULUM
