@@ -143,44 +143,10 @@ Ekibinizle birlikte şu hedefleri koyun:
 
 ---
 
-## 👥 EKIP ÇALIŞMASI
 
-13 kişilik takım olarak:
-
-1. **Grup 1:** Wikipedia üzerinde pratik (3 kişi)
-2. **Grup 2:** Quotes.toscrape üzerinde pratik (3 kişi)
-3. **Grup 3:** Sonuçları analiz etme (4 kişi)
-4. **Grup 4:** Aracı geliştirme ve iyileştirme (3 kişi)
-
-Sonra bulgularınızı paylaşın!
-
----
-
-## 📝 NOTLAR
-
-- Bu araç eğitim amaçlı yapılmıştır
-- **Yasal sorumluluk tamamen sizin üzerinizedir**
-- Kuralları ihlal ederseniz yasal sonuçlar olabilir
-- Bug bounty yapıyorsanız, **program kurallarını okuyun**
-- Şüphe varsa, **sitede çalışmadan önce izin alın**
-
----
-
-## 🔧 GELİŞTİRME FİKİRLERİ
-
-Aracı geliştirmek için yapabilecekleriniz:
-
-- [ ] Sitemap indeks analizi (sitemap_index.xml)
-- [ ] Robots.txt analizi
-- [ ] Hız testi (response time)
-- [ ] Dead link kontrolü
-- [ ] Grafik gösterim (HTML raporu)
-- [ ] Paralel indirileme (daha hızlı)
-- [ ] Veritabanı kaydı
-- [ ] Web arayüzü (Flask/Django)
 
 ---
 
 **Başarılar! 🚀**
 
-*Yazarlar: Siber Güvenlik Öğrencileri - 9. Sınıf*
+*Yazarlar: Muhammed Emin Karkın - 9. Sınıf*
